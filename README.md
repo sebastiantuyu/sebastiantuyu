@@ -7,9 +7,31 @@
 <a href="https://sebastian-tuyu.tech" target="_blank"> sebastian-tuyu.tech </a>  </h4>
 </dvi>
 
-| My current stack is:|
-|---------------------|
-|- 🐍 Python          |
-|- ☕ Java            |
-|- 🚩Scala            |
-|- 🖥️ C++, C#         |
+
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Stack</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Java ☕ + Spring 🥬  </td>
+    <td>React :atom: </td>
+  </tr>
+  <tr>
+    <td>Scala 🚩 + Play! ⏯️ </td>
+    <td>VueJs </td>
+  </tr>
+  <tr>
+    <td>Python 🐍 + Django</td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>C++, C# 💻</td>
+    <td>Typescript</td>
+  </tr>
+</tbody>
+</table>
+
