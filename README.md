@@ -4,7 +4,7 @@
 <h3> 📌 I'm a Fullstack Engineer</h3>
 <div>
 <h4>Here you can find most of my jobs, and also you can go to
-<a href="https://sebastian-tuyu.tech" target="_blank"> sebastiantuyu.com </a>  </h4>
+<a href="https://sebastiantuyu.com" target="_blank"> sebastiantuyu.com </a>  </h4>
   <h5> <i>Builing the future</i> </h5>
 </div>
 
